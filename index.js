@@ -32,7 +32,7 @@ function getToken() {
 
 // https://github.com/paolov1928/js-task-lister-lite-london-web-102918/commit/2e946493c7a0d663ef19ca74ffe4be14804c367e
 const addComment = () => {
-const token = 'fed4dc5868f7f0399d4ec8aeb82001c57e879519';
+const token = 'fedXXXXXXXXXXXXXXXXXXd';
 const postData = {
   body: 'Commenting from within Atom'
 };
